@@ -1,0 +1,10 @@
+{
+  "name": "url.relative",
+  "version": "0.2.0",
+  "description": "Get a relative path from one URL to another URL.",
+  "keywords": ["url", "uri", "relative"],
+  "homepage": "https://github.com/jameslnewell/js-url.relative",
+  "bugs": {"url": "https://github.com/jameslnewell/js-url.relative/issues"},
+  "author": "James Newell <james@digitaledgeit.com.au>",
+  "main": "index.js"
+}
