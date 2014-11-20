@@ -10,7 +10,7 @@ Get a relative path from one URL to another URL.
 
 	var relative = require('url.relative');
     
-    from 	= 'http://example.com/foo/bar';
-    to 	    = 'http://example.com/style.css';
+    from    = 'http://example.com/foo/bar';
+    to      = 'http://example.com/style.css';
     
     relative(from, to) // ==> '../style.css'
